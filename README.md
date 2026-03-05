@@ -168,8 +168,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nokodoko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9F&text_color=FFFFFF&ring_color=00D4FF" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokodoko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nokodoko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9F&text_color=FFFFFF&ring_color=00D4FF" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nokodoko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" height="180"/>
 
 </div>
 
