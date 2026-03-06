@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="tmux"/>
+  <img src="https://img.shields.io/badge/Zellij-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoMTh2Mkgzem0wIDhoMTJ2Mkgzem0wIDhoMTh2Mkgzem0xNC04aDR2Mkgxem0wIDBoLTR2LTJoNHoiLz48L3N2Zz4=&logoColor=white" alt="Zellij"/>
 </p>
 
 </div>
@@ -204,7 +204,7 @@
     <img src="https://img.shields.io/badge/Website-nokos.com-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/cmonty614">
-    <img src="https://img.shields.io/badge/LinkedIn-cmonty614-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-cmonty614-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 </div>
