@@ -201,7 +201,7 @@
 <div align="center">
 <p>
   <a href="https://n0kos.com">
-    <img src="https://img.shields.io/badge/Website-n0kos.com-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_n0kos.com-00D4FF?style=for-the-badge" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/cmonty614">
     <img src="https://img.shields.io/badge/LinkedIn-cmonty614-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
