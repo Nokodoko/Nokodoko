@@ -200,18 +200,15 @@
 
 <div align="center">
 <p>
+  <a href="https://nokos.com">
+    <img src="https://img.shields.io/badge/Website-nokos.com-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://linkedin.com/in/cmonty614">
+    <img src="https://img.shields.io/badge/LinkedIn-cmonty614-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/Nokodoko">
     <img src="https://img.shields.io/badge/GitHub-Nokodoko-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Add more links as needed -->
-  <!-- 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  -->
 </p>
 </div>
 
