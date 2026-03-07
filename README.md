@@ -108,15 +108,16 @@
 <h3 align="center">computeCommander</h3>
 <p align="center">
   <a href="https://github.com/Nokodoko/computeCommander">
-    <img src="https://img.shields.io/badge/🚧-Coming_Soon-00FF9F?style=for-the-badge" alt="computeCommander"/>
+    <img src="https://img.shields.io/badge/CLI-Compute_Orchestration-00D4FF?style=for-the-badge&logo=go&logoColor=white" alt="computeCommander"/>
   </a>
 </p>
 <p align="center">
-  <em>Work in progress...</em><br/>
-  <!-- Update this description when ready -->
+  Terminal-first compute and infrastructure orchestration.<br/>
+  Provision, manage, and monitor resources from the command line.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-WIP-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/Nokodoko/computeCommander?style=flat-square&color=00FF9F"/>
 </p>
 
 </td>
