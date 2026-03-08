@@ -9,10 +9,9 @@
 
 <div align="center">
 
-<!-- Banner Image (trial - revert this commit to restore original capsule-render header) -->
+<!-- Banner with overlaid text (revert this commit to restore original capsule-render header) -->
 <!-- Original header: <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:00FF9F&height=200&section=header&text=n0ko&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=systems%20hacker%20•%20terminal%20dweller%20•%20vim%20acolyte&descAlignY=55&descSize=18" width="100%"/> -->
-<img src="assets/banner.jpg" width="100%" alt="Banner"/>
-<h1>n0ko</h1>
+<img src="assets/banner.png" width="100%" alt="n0ko"/>
 <p><em>systems hacker • terminal dweller • vim acolyte</em></p>
 
 <!-- Typing SVG -->
