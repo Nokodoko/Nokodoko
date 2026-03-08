@@ -216,7 +216,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:00FF9F&height=100&section=footer" width="100%"/>
+<img src="assets/banner_bottom.png" width="100%" alt="footer"/>
 
 <sub>Built with caffeine and spite • Last updated: 2026</sub>
 
