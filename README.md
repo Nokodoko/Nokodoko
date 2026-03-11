@@ -145,19 +145,19 @@
 </td>
 <td width="50%">
 
-<h3 align="center">messages_tui</h3>
+<h3 align="center">openbrain</h3>
 <p align="center">
-  <a href="https://github.com/Nokodoko/messages_tui">
-    <img src="https://img.shields.io/badge/Terminal-Messages-00D4FF?style=for-the-badge&logo=android&logoColor=white" alt="messages_tui"/>
+  <a href="https://github.com/Nokodoko/openbrain">
+    <img src="https://img.shields.io/badge/AI-Second_Brain-00D4FF?style=for-the-badge&logo=python&logoColor=white" alt="openbrain"/>
   </a>
 </p>
 <p align="center">
-  Terminal UI for Android Messages.<br/>
-  Because why leave the terminal?
+  AI-powered second brain with LLM classification.<br/>
+  pgvector search • Redis cache • n8n workflows
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/Nokodoko/messages_tui?style=flat-square&color=00FF9F"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/Nokodoko/openbrain?style=flat-square&color=00FF9F"/>
 </p>
 
 </td>
