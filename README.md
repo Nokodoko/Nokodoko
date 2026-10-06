@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<!-- Banner: nktai-graffiti artwork, centered on a dark blurred self-backdrop (1600x900, 16:9). Revert this commit to restore the wallhaven-2e62v6 header. -->
+<!-- Banner: nktai-substrate-nn artwork, centered on a black 16:9 canvas (1600x900). Revert this commit to restore the nktai-graffiti banner. -->
 <!-- Original header: <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:00FF9F&height=200&section=header&text=n0ko&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=systems%20hacker%20•%20terminal%20dweller%20•%20vim%20acolyte&descAlignY=55&descSize=18" width="100%"/> -->
 <img src="assets/banner.png" width="100%" alt="n0ko"/>
 <p><em>systems hacker • terminal dweller • vim acolyte</em></p>
