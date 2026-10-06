@@ -171,8 +171,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nokodoko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9F&text_color=FFFFFF&ring_color=00D4FF" height="180"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nokodoko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nokodoko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF9F&text_color=FFFFFF&ring_color=00D4FF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nokodoko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" height="180"/>
 
 </div>
 
@@ -193,7 +193,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nokodoko&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00FF9F&point=FFFFFF&area=true&area_color=00D4FF)](https://github.com/Nokodoko)
+[![Activity Graph](https://github-readme-activity-graph-jade.vercel.app/graph?username=Nokodoko&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00FF9F&point=FFFFFF&area=true&area_color=00D4FF)](https://github.com/Nokodoko)
 
 </div>
 
